@@ -28,7 +28,7 @@
     "angular2-materialize": "^3.0.3",
     "angular2-template": "0.0.1",
     "core-js": "2.4.0",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.6.0",
     "jquery": "^2.2.4",
     "materialize-css": "^0.97.7",
     "reflect-metadata": "0.1.3",
