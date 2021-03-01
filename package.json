@@ -27,7 +27,7 @@
     "@angular/forms": "0.2.0",
     "angular2-materialize": "^3.0.3",
     "angular2-template": "0.0.1",
-    "core-js": "2.4.0",
+    "core-js": "3.9.1",
     "bootstrap": "^3.3.6",
     "jquery": "^2.2.4",
     "materialize-css": "^0.97.7",
